@@ -5,6 +5,7 @@ My background in software engineering and web development strengthen me for tack
 - 💬 Ask me about R & Python.
 - 🌱 I’m currently learning Deep Learning & Nueral networks.
 - ⚡ I’m the founder of RladiesMilan which is a R programming community to promote diversity & inclusivity in Data Science, more info: (https://meetup.com/R-Ladies-Milan/) and dedictaed repository: (https://github.com/parvanesh/rladies-milan)
+- I am Woman in Data science conference Ambassador in Milan from Stanford university: (http://widsmilan.com)
 
 ## My Values
 - Responsible
@@ -14,10 +15,8 @@ My background in software engineering and web development strengthen me for tack
 
 ## My talks
 - [How to start your journey as a Data scientist](https://www.slideshare.net/parvaneshafiei/how-to-start-your-journey-as-a-data-scientist)
-- [he Future of Machine Learning and Human Resources ](http://www.experian.com/blogs/news/datatalk/hr-analytics/) 
-- [HR Analytics]()
-
-- 
+- [The Future of Machine Learning and Human Resources ](http://www.experian.com/blogs/news/datatalk/hr-analytics/) 
+- [HR Analytics](https://github.com/parvanesh/Talks/blob/master/hr_analytics.pdf)
 <!--
 **parvanesh/parvanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
