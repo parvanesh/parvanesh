@@ -4,13 +4,20 @@ I am passionate about learning new technologies and building innovative tools to
 My background in software engineering and web development strengthen me for tackling challenges in ML project deployment and create web-based dashboards and software.
 - 💬 Ask me about R & Python.
 - 🌱 I’m currently learning Deep Learning & Nueral networks.
-- ⚡ I’m the founder of RladiesMilan which is a R programming community to promote diversity & inclusivity in Data Science, more info: (https://meetup.com/R-Ladies-Milan/) 
+- ⚡ I’m the founder of RladiesMilan which is a R programming community to promote diversity & inclusivity in Data Science, more info: (https://meetup.com/R-Ladies-Milan/) and dedictaed repository: (https://github.com/parvanesh/rladies-milan)
 
-# My Values
+## My Values
 - Responsible
 - Caring about details
 - A planner person!
 - Used to be a perfectionist, now shifting to action oriented!
+
+## My talks
+- [How to start your journey as a Data scientist](https://www.slideshare.net/parvaneshafiei/how-to-start-your-journey-as-a-data-scientist)
+- [he Future of Machine Learning and Human Resources ](http://www.experian.com/blogs/news/datatalk/hr-analytics/) 
+- [HR Analytics]()
+
+- 
 <!--
 **parvanesh/parvanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
