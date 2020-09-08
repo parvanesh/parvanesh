@@ -4,8 +4,6 @@ I am passionate about learning new technologies and building innovative tools to
 My background in software engineering and web development strengthen me for tackling challenges in ML project deployment and create web-based dashboards and software.
 - 💬 Ask me about R & Python.
 - 🌱 I’m currently learning Deep Learning & Nueral networks, and interested in Cloud fundamentals as well!
-- ⚡ I’m the founder of RladiesMilan which is a R programming community to promote diversity & inclusivity in Data Science, more info: (https://meetup.com/R-Ladies-Milan/) and dedictaed repository: (https://github.com/parvanesh/rladies-milan)
-- 👯I am Woman in Data science conference Ambassador in Milan from Stanford university: (http://widsmilan.com)
 
 ## My Values
 - Responsible
