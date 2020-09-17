@@ -1,5 +1,5 @@
 ### Hey There!
-I am a Senior Data scientist with more than 5 years of experience in applying Data science methods into various sectors and help businesses to find answers in their data.
+I am a Data scientist with more than 5 years of experience in applying Data science methods into various sectors and help businesses to find answers in their data.
 I am passionate about learning new technologies and building innovative tools to add value to business.
 My background in software engineering and web development strengthen me for tackling challenges in ML project deployment and create web-based dashboards and software.
 - 💬 Ask me about R & Python.
