@@ -3,7 +3,7 @@ I am a Data scientist with more than 5 years of experience in applying Data scie
 I am passionate about learning new technologies and building innovative tools to add value to business.
 My background in software engineering and web development strengthen me for tackling challenges in ML project deployment and create web-based dashboards and software.
 - 💬 Ask me about R & Python.
-- 🌱 I’m currently learning Deep Learning & Nueral networks, and interested in Cloud fundamentals as well!
+- 🌱 I’m currently learning Deep Learning & Neural networks, and interested in Cloud fundamentals as well!
 
 ## My Values
 - Responsible
