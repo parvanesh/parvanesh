@@ -4,6 +4,7 @@ I am passionate about learning new technologies and building innovative tools to
 My background in software engineering and web development strengthen me for tackling challenges in ML project deployment and create web-based dashboards and software.
 - 💬 Ask me about R & Python.
 - 🌱 I’m currently learning Deep Learning & Neural networks, and interested in Cloud fundamentals as well!
+- ⚡ I publish now frequently articles about my data science journey in my website: http://nonlineardata.com/ 
 
 ## My Values
 - Responsible
