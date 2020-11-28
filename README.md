@@ -17,7 +17,7 @@ My background in software engineering and web development strengthen me for tack
 - [The Future of Machine Learning and Human Resources ](http://www.experian.com/blogs/news/datatalk/hr-analytics/) 
 - [HR Analytics](https://github.com/parvanesh/Talks/blob/master/hr_analytics.pdf)
 - [How I become a Data scientist](https://github.com/parvanesh/Talks/blob/master/HowIBecomeDS.pdf)
-- [Rladies Italy Project] (https://www.youtube.com/watch?v=PG_TA85bNNc)
+- [Rladies Italy Project](https://www.youtube.com/watch?v=PG_TA85bNNc)
 <!--
 **parvanesh/parvanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
