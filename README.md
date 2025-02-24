@@ -7,8 +7,6 @@ My background in software engineering and web development strengthen me for tack
 - ⚡ I publish now frequently articles about my data science journey in my website: http://nonlineardata.com/ 
 
 ## My Values
-- Responsible
-- Caring about details
 - A planner person!
 - Used to be a perfectionist, now shifting to action oriented!
 
